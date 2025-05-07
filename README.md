@@ -39,7 +39,7 @@ A Library Management System is an essential application for managing books, user
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/Manish1Gupta/library-management-system.git
 cd library-management-system
 
 Step 2: Install Dependencies
