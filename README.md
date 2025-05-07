@@ -76,8 +76,6 @@ Render data dynamically using EJS
 
 Handle form submissions via Body Parser
 
-It serves as a great starting point for building larger inventory or record-based system
-![Library Preview](https://raw.githubusercontent.com/Manish1Gupta/library-management-system/main/book.png)
+![book](https://github.com/user-attachments/assets/edc839fe-bdcc-4037-bab6-a0c9ae5fe73d)
 
-t.com/Manish1Gupta/library-management-system/main/book.png)
 
