@@ -80,5 +80,5 @@ It serves as a great starting point for building larger inventory or record-base
 
 <img src="./book.png" alt="Library Preview" width="600"/>
 
-![book](https://github.com/user-attachments/assets/2824b617-f3e4-484d-9f14-70cd5d9e36ee)
+![book](https://github.com/Manish1Gupta/library-management-system/blob/99b540798d008041bfc27d4f2070c7909d4dccdc/book.png)
 
