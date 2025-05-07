@@ -79,3 +79,6 @@ Handle form submissions via Body Parser
 It serves as a great starting point for building larger inventory or record-based system
 
 <img src="./book.png" alt="Library Preview" width="600"/>
+
+![book](https://github.com/user-attachments/assets/2824b617-f3e4-484d-9f14-70cd5d9e36ee)
+
