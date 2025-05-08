@@ -76,8 +76,7 @@ Render data dynamically using EJS
 
 Handle form submissions via Body Parser
 
-![book](https://github.com/user-attachments/assets/edc839fe-bdcc-4037-bab6-a0c9ae5fe73d)
+![image](https://github.com/Manish1Gupta/library-management-system/blob/main/book.png?raw=true)
 
 
-book.png
 
